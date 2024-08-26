@@ -1,1 +1,11 @@
 # IT230
+
+This application appears to be a class registration program that allows users to select and sign up for classes. Part I was the back end and Part II was the UI/UX portion.
+
+I believe I was able to create all the functional parts well due to my background in computer science. I had slightly more issues with the UI portion of Part II, but I was able to figure out what was going on by clicking around in Visual Studio to see what buttons did what and which fields had which names.
+
+The screens and UI features make it much easier for users to interface with the application. The vast majority of users are familiar with drop down boxes, clicking buttons to execute functions, even if they don't know exactly what the function is, and seeing different parts of an application sectioned off by visual barriers. Along with the feedback given to the user every time they perform a function, it is readily apparent how the program works. The design was successful due to the clean and labeled layout, as well as the text feedback given to the user.
+
+For debugging I generally will just click compile and see what happens. Perhaps the IDE will give me some clues in the console as to what went wrong. After that I will generally start going top to bottom if I have no indications to start somewhere specific. Visual Studio gives familiar red squiggly lines to things it thinks are problems as well as provides sometimes helpful solutions to those problems. I also add lots of print statements throughout functions when I test them to track whether or not variables are being manipulated the way I think they are and also that the logical branching in the program is working. These are techniques that I've used for awhile and will continue to use in the future.
+
+I had to do a little searching and digging to work on the WPF portion of the project, I probably missed a video that explained where things were, but I was able to figure it out easily enough. By clicking through the menus and examining certain fields on the UI, I was able to find what text boxes were named in order to change their contents. Luckily I have a background in coding so a lot of the programming portions I have seen before.
